@@ -3,23 +3,25 @@ color: #000;
 font-style: normal;
 font-weight: bold;
 padding: 20px;
-
+font-size: 50px;
+padding-bottom: 1px;
 }
 .container{
 margin-top: 15px;
 padding-left: 20px;
 padding-right: 20px;
+border-color: black;
 border-top: 1px ;
 border-bottom: 1px ;
 }
 p{
-  font-size: 45px;
-  font-family: Poppins;
-  color: #OE8BCE;
-  padding: 20px;
+  font-size: 15px;
+  font-family: sans-serif;
+  color: blue;
+  padding-top: 1px;
 }
 .contact{
-color: #OE8BCE;
+color: rgb(5,55,81);
 text-decoration-color: #000;
 font-family: Poppins;
 font-size: 15px;
@@ -35,11 +37,16 @@ padding: 10px;
   height: 600px;
   box-shadow: 20px;
   border-radius: 25px;
-  border-color: #OE8BCE;
+  border-color: rgb(5,55,81);
+  margin: 20px;
 }
 .logo1{
   height: 800px;
 }
 .Logo2{
-height: 500px;
+height: 300px;
+}
+.h-8{
+  height: 2rem;
+  width: 2rem;
 }
